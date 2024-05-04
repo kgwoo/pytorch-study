@@ -1,0 +1,2 @@
+# Ignore large data file
+data/cifar-10-python.tar.gz
